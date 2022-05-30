@@ -1,1 +1,27 @@
-
+/*<18.05.2022-Oliwier Hirsz */
+p#pogrubienie_Hirsz {
+    color: #1C0;
+    font-size: 30px;
+}
+p#pochylona_Hirsz { 
+    color: #224;
+    font-size: 35pt;
+}
+p#index_gorny_Hirsz {
+    color: #152;
+    font-size: 3cm;
+}
+p#index_dolny_Hirsz {
+    color: rgb(65%,44%,29%);
+    font-size: 3,5cm;
+}
+p#mono_Hirsz {
+    color: #;
+    font-size: 40px;
+}
+p#powiekszenie_Hirsz {
+    color: #624097;
+}
+p#pomniejszenie_Hirsz {
+    color: rgb(78%,64%,20%);
+}
