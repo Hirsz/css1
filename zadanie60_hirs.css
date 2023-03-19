@@ -1,0 +1,28 @@
+div#blok1_hirsz{
+	 background-color: yellow;
+	 width: 660px;
+ }
+ div#blok2_hirsz{
+	 background-color: gold;
+	 width: 660px;
+ }
+ div#blok3_hirsz{
+	 background-color: silver;
+	 width: 660px;
+ }
+ div#blok1_hirsz:hover{
+	 background-color: yellow;
+	 font-size: 19mm;
+ }
+ div#blok2_hirsz:hover{
+	 background-color: gold;
+	 font-size: 19mm;
+ }
+ div#blok3_hirszk:hover{
+	 background-color: silver;
+	 font-size: 19mm;
+ }
+<!--hover: Właściwość :hover CSS pseudo-class jest używana gdy użytkownik wchodzi w interakcję z elementem 
+ za pomocą urządzenia wskazującego, ale niekoniecznie go aktywuje. Generalnie wyzwalanie następuje gdy użytkownik
+ wskaże element kursorem, np. wskaźnikiem myszy. -->
+ <!--Oliwier Hirsz -->
